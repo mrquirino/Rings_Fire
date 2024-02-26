@@ -17,7 +17,7 @@ body {
     position: relative;
     width: 600px;
     height: 600px;
-    filter: url(wavy) blur(1px);
+    filter: url(#wavy) blur(1px);
 }
 
 .circle:before {
@@ -50,7 +50,7 @@ body {
     
 }
 
-.circle:nth-clild(2):before {
+.circle:nth-child(2):before {
     animation-delay: -2.5s;
 }
 
