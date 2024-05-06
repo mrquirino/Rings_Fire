@@ -12,7 +12,7 @@ body {
     min-height: 100vh;
     background: #000;
 }
-
+/*Tamanho do portal*/
 .circle {
     position: relative;
     width: 600px;
